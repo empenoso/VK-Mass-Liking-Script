@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@vk-io/authorization": "^1.4.1",
+    "delay": "^6.0.0",
+    "vk-io": "^4.9.1"
+  }
+}
