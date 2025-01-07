@@ -6,6 +6,8 @@ This repository contains a JavaScript script for automatically liking the latest
 
 This script leverages the `vk-io` library to interact with the VK API. It retrieves the latest posts from your friends' walls, checks if you've already liked them, and automatically adds a like if not.  This script is for personal use only.  Use at your own risk; excessive or inappropriate use could lead to account restrictions or bans.
 
+Detailed description: https://habr.com/ru/articles/871966/
+
 ## Disclaimer
 
 This script is provided "as is" and without any warranty. Use it at your own risk. VK's API terms of service may change, potentially rendering this script inoperable or subject to penalties.
